@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FasTnT.Azure.AlwaysOn", "FasTnT.Azure.AlwaysOn\FasTnT.Azure.AlwaysOn.csproj", "{81FF57D6-C102-4A2C-A66F-312603BD3611}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81FF57D6-C102-4A2C-A66F-312603BD3611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81FF57D6-C102-4A2C-A66F-312603BD3611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81FF57D6-C102-4A2C-A66F-312603BD3611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81FF57D6-C102-4A2C-A66F-312603BD3611}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23A61710-DDAF-4A7B-8E88-36E3D80E4864}
+	EndGlobalSection
+EndGlobal
